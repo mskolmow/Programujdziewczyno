@@ -51,9 +51,9 @@
 
 
 //DOM Api
-var ppp=document.querySelector(".jumbotron"); 
-ppp.style.border= "30 px solid red";
-//
-var divs=document.querySelectorAll("div");
-console.log(divs.length);
-divs[0].styledisplay="none";
+//var ppp=document.querySelector(".jumbotron"); 
+//ppp.style.border= "30 px solid red";
+////
+//var divs=document.querySelectorAll("div");
+//console.log(divs.length);
+//divs[0].styledisplay="none";
